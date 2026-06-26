@@ -89,3 +89,5 @@ CREATE TABLE Loans (
 truncate table loans;
 
 describe AccountBranches;
+
+-- adding a sample comment
