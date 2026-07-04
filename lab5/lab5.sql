@@ -144,5 +144,5 @@ LIMIT 5;
 
 SELECT *
 FROM Transactions
-WHERE TransactionType IN ('Deposit','Withdrawal')
+WHERE TransactionType IN ('Deposit')
 ORDER BY TransactionDate DESC;
